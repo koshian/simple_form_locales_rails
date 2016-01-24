@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = SimpleFormLocalesRails::VERSION
   s.authors     = ["Sugano `Koshian' Yoshihisa(E)"]
   s.email       = ["koshian@foxking.org"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of SimpleFormLocalesRails."
-  s.description = "TODO: Description of SimpleFormLocalesRails."
+  s.homepage    = "https://github.com/koshian/simple_form_locales_rails"
+  s.summary     = "Locales for simple form."
+  s.description = "Locales for simple form."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]

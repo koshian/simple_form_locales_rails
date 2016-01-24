@@ -1,2 +1,3 @@
+require 'simple_form_locales_rails/i18n_ext'
 module SimpleFormLocalesRails
 end
