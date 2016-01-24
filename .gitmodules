@@ -1,0 +1,3 @@
+[submodule "simple_form_locales"]
+	path = simple_form_locales
+	url = https://github.com/koshian/simple_form_locales.git
